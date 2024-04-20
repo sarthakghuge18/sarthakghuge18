@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sarthak ghuge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak ghuge" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sarthak ghuge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthak ghuge" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sarthak-ghuge-722925251/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak ghuge" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ghugesarthak7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthak ghuge" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sarthak_ghuge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthak_ghuge" height="30" width="40" /></a>
 </p>
 
@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakghuge18&show_icons=true&locale=en&layout=compact" alt="sarthakghuge18" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakghuge18&show_icons=true&locale=en" alt="sarthakghuge18" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakghuge18&" alt="sarthakghuge18" /></p>
